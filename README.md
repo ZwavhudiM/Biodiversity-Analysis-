@@ -12,7 +12,6 @@ This project explores biodiversity data from the National Parks Service to ident
 ## Tools Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Google Colab
-- Power BI
 
 ## Key Findings
 - Mammals were found to be the most endangered category.
