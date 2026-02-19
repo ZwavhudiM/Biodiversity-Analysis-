@@ -6,7 +6,7 @@ This project explores biodiversity data from the National Parks Service to ident
 ## Objectives
 - Clean and analyze biodiversity data
 - Identify trends in endangered species
-- Visualize insights using Python and Power BI
+- Visualize insights using Python
 - Communicate findings clearly
 
 ## Tools Used
@@ -20,5 +20,4 @@ This project explores biodiversity data from the National Parks Service to ident
 
 ## Files Included
 - Google Colab Notebook
-- Power BI Dashboard
 - Dataset (species_info, observations)
